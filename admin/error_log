@@ -1,0 +1,24 @@
+[18-Jun-2023 11:01:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/infm2482/public_html/fahesta-new/config.php on line 7
+[18-Jun-2023 11:01:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/infm2482/public_html/fahesta-new/config.php on line 7
+[03-Jul-2023 13:00:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/infm2482/public_html/fahesta-new/admin/login.php on line 5
+[03-Jul-2023 13:02:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/infm2482/public_html/fahesta-new/admin/login.php on line 5
+[03-Jul-2023 13:05:08 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/infm2482/public_html/fahesta-new/admin/login.php on line 5
+[03-Jul-2023 13:05:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/infm2482/public_html/fahesta-new/admin/login.php on line 5
+[03-Jul-2023 13:05:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/infm2482/public_html/fahesta-new/admin/login.php on line 5
+[02-Aug-2023 20:28:05 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 112
+[02-Aug-2023 20:28:07 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 112
+[02-Aug-2023 20:28:08 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 112
+[02-Aug-2023 20:28:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 112
+[02-Aug-2023 20:28:13 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 112
+[07-Aug-2023 02:46:31 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 204
+[07-Aug-2023 02:46:33 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 204
+[07-Aug-2023 02:46:34 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 204
+[07-Aug-2023 02:46:52 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 204
+[07-Aug-2023 02:47:01 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 263
+[07-Aug-2023 02:47:02 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 263
+[07-Aug-2023 02:47:11 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 263
+[07-Aug-2023 02:53:58 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 222
+[07-Aug-2023 02:54:00 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 222
+[07-Aug-2023 02:54:01 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 222
+[07-Aug-2023 02:56:37 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 316
+[07-Aug-2023 02:56:38 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/boobmyid/tbkurniaajb.boob.my.id/admin/produk.php on line 316

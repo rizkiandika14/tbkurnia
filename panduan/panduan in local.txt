@@ -1,0 +1,3 @@
+- Import database yang ada di folder database
+
+- ganti file config dengan database sesuai yang digunakan
